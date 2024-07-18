@@ -1,0 +1,2 @@
+TiendaC{id=12, nombre='Moralzarzal', ventas=20000.0}
+TiendaC{id=13, nombre='Villalba', ventas=2000.0}
