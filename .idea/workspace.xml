@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2bc4c117-f4ac-476a-9d76-973ff6785afc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -29,11 +32,83 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ServidorSencillo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaNetClienteServidor/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaNetClienteServidor\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modelo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClienteTienda">
+    <configuration name="ClienteSencillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentacion._01Demo.ClienteSencillo" />
+      <module name="JavaNetClienteServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentacion._01Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentacion._02Demo.ClienteTienda" />
+      <module name="JavaNetClienteServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentacion._02Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorSencillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentacion._01Demo.ServidorSencillo" />
+      <module name="JavaNetClienteServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentacion._01Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorTienda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentacion._02Demo.ServidorTienda" />
+      <module name="JavaNetClienteServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentacion._02Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClienteTienda" />
+        <item itemvalue="Application.ServidorTienda" />
+        <item itemvalue="Application.ClienteSencillo" />
+        <item itemvalue="Application.ServidorSencillo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
